@@ -9,7 +9,10 @@
     margin-right: 10px;
     margin-left: 0px;
 }
-
+body {
+    background-color: #eee;
+    font-family: 'Lato', sans-serif;
+  }
 .PNG{
     background-image: height 50px, width 10px;
     border-block-end-color: black;
